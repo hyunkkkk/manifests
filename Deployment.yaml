@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: your-app-container
-          image: sybbb/cicd:v1-20241224121516-13378
+          image: sybbb/cicd:v1-20241224121619-1292
           ports:
             - containerPort: 8080
           env:
